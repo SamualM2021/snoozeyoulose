@@ -1,4 +1,4 @@
-# Full-Stack Ecommerce (NextJs)
+# Full-Stack Sleep Tracker App (NextJs)
 
 ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25&style=flat-square)
 ![NextJS](https://img.shields.io/badge/-NextJs-000?logo=next.js&logoColor=757575&logoWidth=25)
@@ -9,8 +9,8 @@ A full stack sleep health tracker app in NextJS 14  with Firebase & TailwindCSS
 
 ## Screenshot
 
-<!-- ![Desktop](/images/Desktop-View.png)
-![Mobile](/images/Mobile-View.png) -->
+![Desktop](/images/Desktop-View.PNG)
+![Mobile](/images/Mobile-View.PNG)
 
 ## Links
 
